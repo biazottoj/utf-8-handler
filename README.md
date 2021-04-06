@@ -8,4 +8,4 @@ Instead to open each file to correct this problem (there were hundreds of files)
 
 ## Technologies
 
-Python 3.8
+:python: Python 3.8
